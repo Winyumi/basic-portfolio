@@ -63,6 +63,7 @@ header h1 {
     height: 100%;
     display: flex;
     align-items: center;
+    cursor: default;
 }
 header nav {
     float: right;
