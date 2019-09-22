@@ -197,6 +197,7 @@ figure figcaption {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    cursor: default;
     transition: background 0.2s
 }
 figure:hover figcaption {
