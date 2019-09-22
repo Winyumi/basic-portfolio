@@ -142,6 +142,7 @@ footer .copyright {
     font-size: 12px;
     display: inline-block;
     margin: 0.5em 0;
+    cursor: default;
 }
 
 
