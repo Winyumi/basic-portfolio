@@ -65,7 +65,7 @@ header h1 {
     display: flex;
     align-items: center;
     cursor: default;
-    transition: all 0.25s;
+    transition: font-size 0.25s, padding 0.25s;
 }
 header nav {
     float: right;
@@ -79,7 +79,7 @@ header nav a {
     text-decoration: none;
     padding: 0 20px;
     border-left: 1px solid #ddd;
-    transition: all 0.25s;
+    transition: font-size 0.25s, padding 0.25s;
 }
 header nav a:hover {
     text-decoration: underline;
