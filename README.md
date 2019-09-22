@@ -2,6 +2,8 @@
 
 Welcome to my basic portfolio!
 
+Live Demo: https://winyumi.github.io/basic-portfolio/
+
 
 # References
 
