@@ -158,3 +158,32 @@ button {
     color: white;
     font-size: 18px;
 }
+
+
+/* Portfolio */
+figure {
+    margin: 0 30px 30px 0;
+    padding: 0;
+    width: 260px;
+    height: 260px;
+    position: relative;
+    float: left;
+}
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+figure figcaption {
+    background-color: #4aaaa5;
+    padding: 0.75em 0;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    transition: background 0.2s
+}
+figure:hover figcaption {
+    background-color: #1b817c;
+}
