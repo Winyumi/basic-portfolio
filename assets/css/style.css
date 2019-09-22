@@ -166,6 +166,13 @@ textarea {
     min-width: 100%;
     max-width: 100%;
 }
+input::placeholder {
+    opacity: 0.5;
+    transition: opacity 0.25s;
+}
+input:focus::placeholder {
+    opacity: 0;
+}
 button {
     background-color: #4aaaa5;
     padding: 0.6em 1.6em;
