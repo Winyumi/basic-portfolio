@@ -2,8 +2,11 @@
 
 Welcome to my basic portfolio!
 
+Strictly HTML5 and CSS3 without Javascript.
+
 Live Demo: https://winyumi.github.io/basic-portfolio/
 
+All commits after deadline are only very minor tweaks. Feel free to clone from the last commit prior to deadline if necessary.
 
 # References
 
