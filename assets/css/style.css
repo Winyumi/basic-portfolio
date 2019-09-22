@@ -123,6 +123,7 @@ main section h2 {
     color: #4aaaa5;
     padding-bottom: 30px;
     border-bottom: 2px solid #ddd;
+    cursor: default;
 }
 
 
